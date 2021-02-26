@@ -6,7 +6,9 @@ This project is from the Day 9 code along video from Udemy's 50 projects in 50 d
 
 ### Overall Impression
 
-
+First time using the <audio> tag and I will look for more opportunities to incorporate sounds into my sites.
 
 ### Things Learned
 
+* audio element had built-in .play(), .pause(), currentTime() functions
+* I recently discovered that removing outline on focus can make sites less accessible. In this case I reduced the opacity and increased the size to make up for it. I will continue to look into better techniques. 
